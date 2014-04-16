@@ -1,0 +1,375 @@
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:35:49 method Done has wrong number of ins: 2
+2014/04/13 21:35:49 method Kill has wrong number of ins: 1
+2014/04/13 21:35:49 method Max has wrong number of ins: 1
+2014/04/13 21:35:49 method Min has wrong number of ins: 1
+2014/04/13 21:35:49 method Start reply type not a pointer: interface {}
+2014/04/13 21:35:49 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:19 method Done has wrong number of ins: 2
+2014/04/13 21:36:19 method Kill has wrong number of ins: 1
+2014/04/13 21:36:19 method Max has wrong number of ins: 1
+2014/04/13 21:36:19 method Min has wrong number of ins: 1
+2014/04/13 21:36:19 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:19 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:36:41 method Done has wrong number of ins: 2
+2014/04/13 21:36:41 method Kill has wrong number of ins: 1
+2014/04/13 21:36:41 method Max has wrong number of ins: 1
+2014/04/13 21:36:41 method Min has wrong number of ins: 1
+2014/04/13 21:36:41 method Start reply type not a pointer: interface {}
+2014/04/13 21:36:41 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:10 method Done has wrong number of ins: 2
+2014/04/13 21:37:10 method Kill has wrong number of ins: 1
+2014/04/13 21:37:10 method Max has wrong number of ins: 1
+2014/04/13 21:37:10 method Min has wrong number of ins: 1
+2014/04/13 21:37:10 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:10 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
+2014/04/13 21:37:28 method Done has wrong number of ins: 2
+2014/04/13 21:37:28 method Kill has wrong number of ins: 1
+2014/04/13 21:37:28 method Max has wrong number of ins: 1
+2014/04/13 21:37:28 method Min has wrong number of ins: 1
+2014/04/13 21:37:28 method Start reply type not a pointer: interface {}
+2014/04/13 21:37:28 method Status has wrong number of ins: 2
